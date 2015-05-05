@@ -19,7 +19,7 @@ namespace WindowsFormsApplication1
         }
 
         //Btton Click Event for getting Pneuron data. 
-        //Added by master 
+        //Added by f2
         private void button1_Click(object sender, EventArgs e)
         {
             DataSet ds = new DataSet("ClaimDetails");
